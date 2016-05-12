@@ -14,8 +14,8 @@ document.querySelector('.button-tone-down').onclick = function () {
   document.querySelector('.paragraph-ten-thousand').innerHTML = 'nah';
 };
 
-document.querySelector('test-button').onclick = function() {
-  document.querySelector('paragraph-ten-thousand').innerHTML = "chips";
+document.querySelector('.test-button').onclick = function() {
+  document.querySelector('.paragraph-ten-thousand').innerHTML = "chips";
 };
 
 
